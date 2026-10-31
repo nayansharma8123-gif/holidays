@@ -1,0 +1,18 @@
+tests/financial/test_nasdaq.py
+  h_578feb921d644c 115
+tests/financial/test_chicago_mercantile_exchange.py
+  h_578feb921d644c 446
+tests/financial/test_ny_stock_exchange.py
+  h_578feb921d644c 874
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bcb12c3458341f72c1a10b205e32e28832d360db",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
