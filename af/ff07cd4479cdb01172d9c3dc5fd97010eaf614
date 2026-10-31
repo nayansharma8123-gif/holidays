@@ -1,0 +1,18 @@
+holidays/locale/mr/LC_MESSAGES/XNYS.po
+  h_578feb921d644c 93,245,249,253,437,441
+holidays/locale/mr/LC_MESSAGES/IN.po
+  h_578feb921d644c 705
+holidays/locale/mr/LC_MESSAGES/XCME.po
+  h_578feb921d644c 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "afff07cd4479cdb01172d9c3dc5fd97010eaf614",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
