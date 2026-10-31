@@ -702,7 +702,7 @@ msgstr "यू सोसो थामा यांची पुण्यति�
 
 #. Christmas Festival.
 msgid "Christmas Festival"
-msgstr "क्रिसमस सण"
+msgstr "ख्रिसमस सण"
 
 #. U Kiang Nongbah's Death Anniversary.
 msgid "U Kiang Nongbah's Death Anniversary"

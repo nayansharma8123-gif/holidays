@@ -45,7 +45,7 @@ msgstr "थँक्सगिव्हिंग डे"
 
 #. Christmas Day.
 msgid "Christmas Day"
-msgstr "नाताळ"
+msgstr "ख्रिसमस दिन"
 
 #. %s (markets pause at 10:30am CT)
 #, c-format
