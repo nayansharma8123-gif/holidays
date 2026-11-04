@@ -1,0 +1,16 @@
+holidays/countries/namibia.py
+  h_578feb921d644c 80
+tests/countries/test_namibia.py
+  h_578feb921d644c 169,171,175-176,179-181,217,238,260,282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c95ac444f9f9e48edea9b702d0165f57ec1299d5",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
