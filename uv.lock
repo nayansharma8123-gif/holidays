@@ -747,7 +747,7 @@ tests = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "python-dateutil", specifier = ">=2.9.0.post0,<3" }]
+requires-dist = [{ name = "python-dateutil", specifier = ">=2.9.0.post0,<5" }]
 
 [package.metadata.requires-dev]
 build = [{ name = "polib", specifier = ">=1.2,<2" }]
