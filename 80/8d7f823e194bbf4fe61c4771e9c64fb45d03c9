@@ -1,0 +1,18 @@
+pyproject.toml
+  h_578feb921d644c 41
+CONTRIBUTORS
+  h_578feb921d644c 141
+uv.lock
+  h_578feb921d644c 750
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "808d7f823e194bbf4fe61c4771e9c64fb45d03c9",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
