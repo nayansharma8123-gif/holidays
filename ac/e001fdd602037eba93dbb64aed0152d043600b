@@ -1,0 +1,14 @@
+tests/financial/test_brasil_bolsa_balcao.py
+  h_578feb921d644c 221
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ace001fdd602037eba93dbb64aed0152d043600b",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
