@@ -1,0 +1,26 @@
+tests/financial/test_brasil_bolsa_balcao.py
+  h_578feb921d644c 13,16,189-210
+  h_578feb921d644c 211
+holidays/locale/pt_BR/LC_MESSAGES/BVMF.po
+  h_578feb921d644c 82-86
+  h_578feb921d644c 87-89
+holidays/financial/brasil_bolsa_balcao.py
+  h_578feb921d644c 108-116
+holidays/locale/uk/LC_MESSAGES/BVMF.po
+  h_578feb921d644c 82-86
+  h_578feb921d644c 87-89
+holidays/locale/en_US/LC_MESSAGES/BVMF.po
+  h_578feb921d644c 82-86
+  h_578feb921d644c 87-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3b8a6ee4e199fbbca9a26cf679d93535e2c9aed7",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
