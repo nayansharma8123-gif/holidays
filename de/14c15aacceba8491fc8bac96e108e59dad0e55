@@ -1,0 +1,32 @@
+holidays/locale/en_IN/LC_MESSAGES/IN.po
+  h_578feb921d644c 21
+holidays/locale/en_US/LC_MESSAGES/IN.po
+  h_578feb921d644c 21
+holidays/locale/gu/LC_MESSAGES/IN.po
+  h_578feb921d644c 21
+holidays/locale/hi/LC_MESSAGES/IN.po
+  h_578feb921d644c 21
+holidays/locale/kn/LC_MESSAGES/IN.po
+  h_578feb921d644c 21
+holidays/locale/ml/LC_MESSAGES/IN.po
+  h_578feb921d644c 21
+holidays/locale/mr/LC_MESSAGES/IN.po
+  h_578feb921d644c 21
+holidays/locale/pa/LC_MESSAGES/IN.po
+  h_578feb921d644c 21
+holidays/locale/ta/LC_MESSAGES/IN.po
+  h_578feb921d644c 21
+holidays/locale/te/LC_MESSAGES/IN.po
+  h_578feb921d644c 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "de14c15aacceba8491fc8bac96e108e59dad0e55",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
