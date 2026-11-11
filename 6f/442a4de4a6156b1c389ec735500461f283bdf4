@@ -1,0 +1,19 @@
+holidays/calendars/hindu.py
+  h_578feb921d644c 1463-1471
+holidays/countries/india.py
+  h_578feb921d644c 1181,1183-1186,1189-1190
+  h_578feb921d644c 1187,1191
+tests/countries/test_india.py
+  h_578feb921d644c 970,974-990,996,1728,2380-2388,2557-2558,4436-4438
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6f442a4de4a6156b1c389ec735500461f283bdf4",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
