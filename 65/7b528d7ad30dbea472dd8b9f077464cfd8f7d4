@@ -1,0 +1,17 @@
+tests/countries/test_india.py
+  h_578feb921d644c 997-998,1050-1056,1058-1063,1742-1750,2334,2376,2378-2380
+holidays/countries/india.py
+  h_578feb921d644c 1181,1191-1193,1196-1199
+  h_578feb921d644c 1194-1195,1200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "657b528d7ad30dbea472dd8b9f077464cfd8f7d4",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
