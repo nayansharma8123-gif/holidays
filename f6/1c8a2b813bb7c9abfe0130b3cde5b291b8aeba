@@ -1,0 +1,14 @@
+holidays/locale/bn/LC_MESSAGES/IN.po
+  h_578feb921d644c 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f61c8a2b813bb7c9abfe0130b3cde5b291b8aeba",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
