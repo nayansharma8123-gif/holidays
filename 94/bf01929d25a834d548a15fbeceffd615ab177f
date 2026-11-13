@@ -1,0 +1,14 @@
+tests/countries/test_india.py
+  h_578feb921d644c 1577-1580
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "94bf01929d25a834d548a15fbeceffd615ab177f",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
