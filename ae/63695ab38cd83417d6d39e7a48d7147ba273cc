@@ -1,0 +1,50 @@
+holidays/locale/en_US/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,748-750
+  h_578feb921d644c 751
+holidays/locale/te/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,747-749
+  h_578feb921d644c 750
+holidays/locale/bn/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,747-749
+  h_578feb921d644c 750
+holidays/locale/ml/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,747-749
+  h_578feb921d644c 750
+tests/countries/test_india.py
+  h_578feb921d644c 2390-2402,2859,3030,3239,3407,3578,3746,3914,4085,4265,4434,4605
+holidays/locale/pa/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,747-749
+  h_578feb921d644c 750
+holidays/locale/hi/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,748-750
+  h_578feb921d644c 751
+holidays/locale/mr/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,747-749
+  h_578feb921d644c 750
+holidays/locale/gu/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,748-750
+  h_578feb921d644c 751
+holidays/locale/ta/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,747-749
+  h_578feb921d644c 750
+holidays/locale/en_IN/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,748-749
+  h_578feb921d644c 750-751
+holidays/locale/kn/LC_MESSAGES/IN.po
+  h_578feb921d644c 20,747-749
+  h_578feb921d644c 750
+holidays/countries/india.py
+  h_578feb921d644c 1428-1429
+  h_578feb921d644c 1430
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ae63695ab38cd83417d6d39e7a48d7147ba273cc",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
