@@ -1,0 +1,16 @@
+holidays/locale/kn/LC_MESSAGES/IN.po
+  h_578feb921d644c 649
+tests/countries/test_india.py
+  h_578feb921d644c 3675
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aabe12b867e02c19b53bb9070f822a3f56aac3de",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
