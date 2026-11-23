@@ -1,0 +1,16 @@
+holidays/holiday_base.py
+  h_578feb921d644c 1116
+tests/test_holiday_base.py
+  h_578feb921d644c 1629
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f47103d8e22b444edda72ce16f6df877ba32d498",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
