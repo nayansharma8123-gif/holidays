@@ -1,0 +1,16 @@
+holidays/countries/botswana.py
+  h_578feb921d644c 13,105
+tests/countries/test_botswana.py
+  h_578feb921d644c 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "067985a646c664fe187bd47e123707414c665306",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
