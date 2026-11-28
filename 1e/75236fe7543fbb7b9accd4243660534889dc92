@@ -1,0 +1,18 @@
+tests/countries/test_cameroon.py
+  h_19d26de7903b3a 213,222,229
+holidays/locale/en_US/LC_MESSAGES/CM.po
+  h_19d26de7903b3a 20,57,85,87
+holidays/locale/en_CM/LC_MESSAGES/CM.po
+  h_19d26de7903b3a 20,57,85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1e75236fe7543fbb7b9accd4243660534889dc92",
+  "prompts": {},
+  "humans": {
+    "h_19d26de7903b3a": {
+      "author": "Nayan Sharma <nayansharma8123@gmail.com>"
+    }
+  }
+}
