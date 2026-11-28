@@ -1,0 +1,31 @@
+holidays/locale/fr/LC_MESSAGES/CM.po
+  h_19d26de7903b3a 1-89
+  h_19d26de7903b3a 90-91
+holidays/countries/cameroon.py
+  h_19d26de7903b3a 21,42,44,46,48,51,73,76-77,80,83,86-87,90,93,96,99,102,105,170-172,175-176,181-182
+README.md
+  h_19d26de7903b3a 457
+holidays/locale/en_US/LC_MESSAGES/CM.po
+  h_19d26de7903b3a 1-89
+  h_19d26de7903b3a 90-91
+holidays/locale/en_CM/LC_MESSAGES/CM.po
+  h_19d26de7903b3a 1-89
+  h_19d26de7903b3a 90-91
+tests/countries/test_cameroon.py
+  h_19d26de7903b3a 201-247
+scripts/generate_site_assets.py
+  h_19d26de7903b3a 141
+snapshots/countries/CM_COMMON.json
+  h_19d26de7903b3a 5-6,17,26,37,47,57,68-69,81,91,101,111,121,133,147,159,170,181,193-194,208,221,233,246,257,268-269,282,294,306,317,327-328,341,354,366,377,388,401-402,414,427,438,449,460,472,484,496,507,518,532-533,546,559,571,581,592,604-605,619,632,643,655,666-667,680,692,704,717,729,742,744,757,769,782,793,804,817,830,842,853,864,878-879,892,905,916,928,940,952-953,967,980,991,1004,1014-1015,1028,1040,1052,1064,1076,1088-1089
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6bc508b97990c268e6f5e1c5083a9d9e5b9297ee",
+  "prompts": {},
+  "humans": {
+    "h_19d26de7903b3a": {
+      "author": "Nayan Sharma <nayansharma8123@gmail.com>"
+    }
+  }
+}
